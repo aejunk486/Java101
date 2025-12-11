@@ -1,0 +1,13 @@
+public class JavaType01 {
+    
+    public static void main(String[] args) { 
+        byte b = 100;
+        int age = 25;
+        long population = 7800000000L;  
+
+        System.out.println("Byte value: " + b);
+        System.out.println("Integer value: " + age);    
+        System.out.println("Long value: " + population);
+    }
+}
+
