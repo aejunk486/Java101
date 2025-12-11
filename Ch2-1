@@ -1,4 +1,5 @@
-public class BasicCalculation { 
+public class JavaType01 {
+    
     public static void main(String[] args) { 
         byte b = 100;
         int age = 25;
